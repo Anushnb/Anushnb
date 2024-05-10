@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anushnb
 - 👀 I’m interested in Devops 
-- 🌱 I’m currently Devops
+- 🌱 I’m currently Learning Devops
 - 📫 you can reach me to anushnb26@gmail.com
 
 <!---
